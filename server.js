@@ -120,7 +120,7 @@ const games = [new Game("dmc5",2019),new Game("re8",2021),new Game("nfs",2019)];
 // app.delete('/game',(req,res) =>{
 //             res.status(200).json({ message:"Deleted !",name:req.params.name});})
             
-     
+
             
 
 //TP3
